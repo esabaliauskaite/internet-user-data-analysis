@@ -26,7 +26,9 @@ This project examines how internet access has evolved globally from 2000 to 2025
 
 | Folder | Contents |
 | --- | --- |
+| `data/raw/` | Original dataset from Our World in Data | No mising or mismatched values, hence no data cleaning required
 | `notebooks/` | Jupyter notebooks for exploration and EDA |
+| `visualizations/` | Final visualizations used in the report |
 
 ---
 

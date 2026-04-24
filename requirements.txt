@@ -1,2 +1,5 @@
 Python packages used:
 - pandas
+- seaborn
+- matplotlib.pyplot 
+
