@@ -34,12 +34,16 @@ This project examines how internet access has evolved globally from 2000 to 2025
 
 ## Key Findings
 
-To be added later
+- Global internet adoption has grown steadily, increasing by 58 percentage points from ~15.6% in 2000 to ~73.6% in 2025, at a consistent rate of 2 or 3% per year.
+- The gap between high-income and low-income countries has widened over the two decades covered by this analysis, while upper-middle-income countries saw the fastest growth, nearly closing the gap with high-income countries.
+- Regional inequality has narrowed more than income inequality, though significant differences remain.
+- At the country level in 2023, the top 10 countries are predominantly wealthy, oil-rich, or Nordic nations, while the bottom 10 are largely poverty-stricken countries prioritising basic infrastructure, healthcare, and security over internet investment.
+- The digital divide risks widening further as emerging technologies like AI require infrastructure and capital concentrated in wealthier countries, and climate change may force low-income countries to divert resources away from internet investment.
 
 ---
 
 ## Tools Used
 
-- Python (pandas, matplotlib, seaborn)
+- Python (pandas, matplotlib, seaborn, plotly)
 - Excel (initial data exploration)
-
+- Jupyter Notebooks
